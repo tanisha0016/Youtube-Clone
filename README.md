@@ -47,16 +47,16 @@ project-folder/
 ## Screenshots
 
 ### Header Section
-![ss1](./screenshots/header.png)
+![ss1](./screenshots/Header.png)
 
 ### Sidebar Navigation
-![Sidebar Screenshot](./screenshots/sidebar.png)
+![Sidebar Screenshot](./screenshots/SidebarNavigation.png)
 
 ### Video Grid
-![Video Grid Screenshot](./screenshots/video-grid.png)
+![Video Grid Screenshot](./screenshots/VideoGrid.png)
 
 ###Final Project
-![Youtube ss](./screenshots/youtube.png)
+![Youtube ss](./screenshots/Youtube.png)
 
 ## License
 
