@@ -55,8 +55,8 @@ project-folder/
 ### Video Grid
 ![Video Grid Screenshot](./screenshots/VideoGrid.png)
 
-###Final Project
-![Youtube ss](./screenshots/Youtube.png)
+### Final Project
+![Youtube](.screenshots/Youtube.png)
 
 ## License
 
