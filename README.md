@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This is a simplified clone of the YouTube platform, built using HTML, CSS, and JavaScript. It replicates some key features of YouTube, including a header with a search bar, sidebar navigation, and a grid of video previews.
+This is a simplified clone of the YouTube platform, built using HTML and CSS. It replicates some key features of YouTube, including a header with a search bar, sidebar navigation, and a grid of video previews.
 
 ## Features
 
@@ -47,14 +47,16 @@ project-folder/
 ## Screenshots
 
 ### Header Section
-![<img width="52" alt="image" src="https://github.com/user-attachments/assets/dc554451-7e51-4811-9e1c-112f9b0ad09a" />
-](./screenshots/header.png)
+![ss1](./screenshots/header.png)
 
 ### Sidebar Navigation
 ![Sidebar Screenshot](./screenshots/sidebar.png)
 
 ### Video Grid
 ![Video Grid Screenshot](./screenshots/video-grid.png)
+
+###Final Project
+![Youtube ss](./screenshots/youtube.png)
 
 ## License
 
